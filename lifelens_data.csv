@@ -1,0 +1,11 @@
+date,day,screen_time_hours,sleep_hours,study_hours,work_hours,instagram_hours,youtube_hours,netflix_hours,focus_score,burnout_score,productivity_score,mood,water_intake_liters,exercise_minutes,stress_level,caffeine_intake,social_interaction_hours
+2026-01-03,Monday,6,7,4,5,2,1.0,1.0,78,32,80,Happy,2.5,40,Low,1,2
+2026-01-05,Wednesday,8,5,2,6,4,2.0,1.0,52,68,50,Stressed,1.8,10,High,3,1
+2026-01-08,Saturday,5,8,6,3,1,1.0,0.5,88,20,90,Motivated,3.0,50,Low,1,4
+2026-01-11,Tuesday,7,6,3,5,3,2.0,1.0,65,55,68,Tired,2.0,20,Medium,2,2
+2026-01-14,Friday,4,8,7,4,1,0.5,0.5,92,15,95,Focused,3.5,60,Low,1,5
+2026-01-18,Monday,9,4,2,7,5,2.0,2.0,45,80,40,Stressed,1.5,5,High,4,1
+2026-01-21,Thursday,6,7,5,5,2,1.0,1.0,80,28,82,Happy,2.8,35,Low,1,3
+2026-01-25,Monday,7,6,4,6,3,2.0,1.0,70,48,72,Neutral,2.2,25,Medium,2,2
+2026-01-28,Thursday,5,8,6,4,1,1.0,0.5,89,18,91,Motivated,3.1,45,Low,1,4
+2026-02-02,Tuesday,10,4,1,8,6,2.0,2.0,35,90,30,Exhausted,1.2,0,High,5,1
