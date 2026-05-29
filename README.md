@@ -43,12 +43,6 @@ The dashboard focuses on:
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard Preview](screenshots/dashboard-preview.png)
-
----
-
 ## 📁 Project Structure
 
 ```bash
